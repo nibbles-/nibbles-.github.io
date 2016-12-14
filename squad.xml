@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+
+<squad nick="-">
+<name></name>
+<email></email>
+<web></web>
+<picture>logo.paa</picture>
+<title></title>	
+
+<member id="76561197984039318" nick="nibbles">
+<name></name>
+<email></email>
+<icq></icq>
+<remark>Kaboom</remark>
+</member>
+</squad>
